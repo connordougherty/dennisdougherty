@@ -7,3 +7,12 @@ html, body {
 	background: linear-gradient(135deg, #FFF59D 50%, #FFF 50%);
 	height: 100%;
 }
+
+nav {
+	background: transparent;
+	color: #333333;
+}
+
+.brand-logo {
+	width: 15%;
+}
