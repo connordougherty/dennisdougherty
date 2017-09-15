@@ -49,3 +49,11 @@ nav {
 .brand-logo {
 	width: 15%;
 }
+
+nav ul a {
+  font-size: 1.125rem;
+}
+
+.dropdown-content li>a, .dropdown-content li>span {
+  color: ;
+}
