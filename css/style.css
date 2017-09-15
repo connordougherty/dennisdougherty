@@ -1,0 +1,9 @@
+html, body {
+	height: 100%;
+}
+
+.background {
+	background: #FFF;
+	background: linear-gradient(135deg, #FFF59D 50%, #FFF 50%);
+	height: 100%;
+}
