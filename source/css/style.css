@@ -20,9 +20,9 @@
 
 @font-face {
   font-family: 'Lato';
-  src: url('lato-regular-webfont.woff2') format('woff2'),
-       url('lato-regular-webfont.woff') format('woff'),
-       url('lato-regular-webfont.ttf') format('truetype');
+  src: url('../fonts/lato/lato-regular-webfont.woff2') format('woff2'),
+       url('../fonts/lato/lato-regular-webfont.woff') format('woff'),
+       url('../fonts/lato/lato-regular-webfont.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
@@ -42,14 +42,20 @@ h1 {
 
 @media only screen and (min-width: 601px) {
   .title {
+    font-size: 4rem;
+  }
+  .subtitle {
+    font-size: 2.75rem;
+  }
+}
+
+@media only screen and (min-width: 992px) {
+  .title {
     font-size: 5rem;
   }
   .subtitle {
     font-size: 3.56rem;
   }
-}
-
-@media only screen and (min-width: 992px) {
   nav {
     margin-bottom: 50px;
   }
