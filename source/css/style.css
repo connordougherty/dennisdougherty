@@ -1,7 +1,7 @@
 /* Fonts */
 
 @font-face {
-  font-family: 'dancing_scriptbold';
+  font-family: 'Dancing Script';
   src: url('../fonts/dancingscript/dancingscript-bold-webfont.woff2') format('woff2'),
        url('../fonts/dancingscript/dancingscript-bold-webfont.woff') format('woff'),
        url('../fonts/dancingscript/dancingscript-bold-webfont.ttf') format('truetype');
@@ -10,7 +10,7 @@
 }
 
 @font-face {
-  font-family: 'oswaldmedium';
+  font-family: 'Oswald';
   src: url('../fonts/oswald/oswald-medium-webfont.woff2') format('woff2'),
        url('../fonts/oswald/oswald-medium-webfont.woff') format('woff'),
        url('../fonts/oswald/oswald-medium-webfont.ttf') format('truetype');
@@ -19,7 +19,7 @@
 }
 
 @font-face {
-  font-family: 'latoregular';
+  font-family: 'Lato';
   src: url('lato-regular-webfont.woff2') format('woff2'),
        url('lato-regular-webfont.woff') format('woff'),
        url('lato-regular-webfont.ttf') format('truetype');
@@ -29,6 +29,39 @@
 
 html {
   font-family: 'Lato', sans-serif;
+}
+
+h1 {
+  font-weight: bold;
+  font-size: 3rem;
+}
+
+.subtitle {
+  font-size: 2rem;
+}
+
+@media only screen and (min-width: 601px) {
+  .title {
+    font-size: 5rem;
+  }
+  .subtitle {
+    font-size: 3.56rem;
+  }
+}
+
+@media only screen and (min-width: 992px) {
+  nav {
+    margin-bottom: 50px;
+  }
+}
+
+.title {
+  
+  font-family: 'Oswald', sans-serif;
+}
+
+.subtitle {
+  font-family: 'Oswald', sans-serif;
 }
 
 html, body {
@@ -52,8 +85,4 @@ nav {
 
 nav ul a {
   font-size: 1.125rem;
-}
-
-.dropdown-content li>a, .dropdown-content li>span {
-  color: ;
 }
