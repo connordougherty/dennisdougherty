@@ -56,7 +56,6 @@ h1 {
 }
 
 .title {
-  
   font-family: 'Oswald', sans-serif;
 }
 
@@ -80,9 +79,5 @@ nav {
 }
 
 .brand-logo {
-	width: 15%;
-}
-
-nav ul a {
-  font-size: 1.125rem;
+	width: 13%;
 }
