@@ -31,59 +31,50 @@ html {
   font-family: 'Lato', sans-serif;
 }
 
-h1 {
-  font-weight: bold;
-  font-size: 3rem;
-}
-
-.subtitle {
-  font-size: 2rem;
-}
-
-@media only screen and (min-width: 601px) {
-  .title {
-    font-size: 4rem;
-  }
-  .subtitle {
-    font-size: 2.75rem;
-  }
-}
-
-@media only screen and (min-width: 992px) {
-  .title {
-    font-size: 5rem;
-  }
-  .subtitle {
-    font-size: 3.56rem;
-  }
-  nav {
-    margin-bottom: 50px;
-  }
-}
-
-.title {
+h1, h2, h3, h4, h5, h6 {
   font-family: 'Oswald', sans-serif;
 }
 
-.subtitle {
-  font-family: 'Oswald', sans-serif;
-}
+/* Base */
 
 html, body {
-	height: 100%;
+  height: 100%;
 }
 
 .background {
-	background: #FFF;
-	background: linear-gradient(135deg, #FFF59D 50%, #FFF 50%);
-	height: 100%;
+  background: #FFF;
+  background: linear-gradient(135deg, #FFF59D 50%, #FFF 50%);
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }
 
+/* Navigation */
+
 nav {
-	background: transparent;
-	color: #333333;
+  background: transparent;
 }
 
 .brand-logo {
-	width: 13%;
+  width: 13%;
+}
+
+/* Banner */
+
+.title {
+  font-weight: bold;
+}
+
+@media only screen and (max-width: 601px) {
+  .title {
+    font-size: 2.92rem;
+    line-height: 110%;
+    margin: 1.46rem 0 1.168rem 0;
+  }
+  .subtitle {
+    font-size: 2.28rem;
+    line-height: 110%;
+    margin: 1.14rem 0 .912rem 0;
+  }
 }
