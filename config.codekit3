@@ -216,6 +216,12 @@
 		"sC": 1,
 		"tS": 0
 		},
+	"\/source\/lyrics.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/lyrics.html",
+		"oF": 0
+		},
 	"\/source\/music.html": {
 		"ft": 8192,
 		"oA": 2,
