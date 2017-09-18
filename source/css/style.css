@@ -56,8 +56,19 @@ nav {
   background: transparent;
 }
 
-.brand-logo {
-  width: 13%;
+@media only screen and (min-width: 992px) {
+  nav {
+    margin-bottom: 64px;
+  }
+}
+
+@media only screen and (min-width: 1200px) {
+  nav .brand-logo.center-logo {
+    left: 50%;
+    -webkit-transform: translateX(-50%);
+    transform: translateX(-50%);
+    text-align: center;
+  }
 }
 
 /* Banner */
