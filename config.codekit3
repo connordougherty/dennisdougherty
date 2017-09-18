@@ -159,6 +159,17 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"\/source\/images\/digging-dog.png": {
+		"ft": 32768,
+		"iS": 49996,
+		"oA": 0,
+		"oAP": "\/build\/images\/digging-dog.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
 	"\/source\/images\/digging-dog.svg": {
 		"ft": 2097152,
 		"miP": 0,
