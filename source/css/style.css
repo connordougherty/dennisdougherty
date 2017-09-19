@@ -115,3 +115,9 @@ pre {
   font-size: 1.125rem;
   margin: 0;
 }
+
+/* Videos */
+
+.video-section {
+  margin: 1rem 0 5% 0;
+}
