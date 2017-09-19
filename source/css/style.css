@@ -41,9 +41,14 @@ html, body {
   height: 100%;
 }
 
-.background {
-  background: #FFF;
+body {
+  height: 100%;
+  background: #fff;
   background: linear-gradient(135deg, #FFF59D 50%, #FFF 50%);
+  background-attachment: fixed;
+}
+
+main {
   height: 100%;
   display: flex;
   flex-direction: column;
@@ -56,8 +61,19 @@ nav {
   background: transparent;
 }
 
-.brand-logo {
-  width: 13%;
+@media only screen and (min-width: 992px) {
+  nav {
+    margin-bottom: 64px;
+  }
+}
+
+@media only screen and (min-width: 1200px) {
+  nav .brand-logo.center-logo {
+    left: 50%;
+    -webkit-transform: translateX(-50%);
+    transform: translateX(-50%);
+    text-align: center;
+  }
 }
 
 /* Banner */
@@ -77,4 +93,25 @@ nav {
     line-height: 110%;
     margin: 1.14rem 0 .912rem 0;
   }
+}
+
+/* Lyrics */
+
+pre {
+  font-family: 'Lato', sans-serif;
+  font-size: 1.125rem;
+  margin: 0;
+}
+
+.collapsible {
+  position: fixed;
+}
+
+.collapsible-body {
+  background-color: #fff;
+}
+
+.collapsible-header h1 {
+  font-size: 1.125rem;
+  margin: 0;
 }
