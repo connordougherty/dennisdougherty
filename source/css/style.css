@@ -107,6 +107,10 @@ pre {
   position: fixed;
 }
 
+.collapsible-body {
+  background-color: #fff;
+}
+
 .collapsible-header h1 {
   font-size: 1.125rem;
   margin: 0;
