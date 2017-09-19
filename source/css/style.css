@@ -126,4 +126,30 @@ pre {
   margin: 1rem 0 1rem 0;
 }
 
-/* Tour */
+/* Press */
+
+.bio p {
+  font-size: 1.125rem;
+}
+
+.photo-section {
+  margin-bottom: 1rem;
+}
+
+.quote {
+  font-style: italic;
+  font-size: 1.25rem;
+}
+
+.quoter {
+  font-size: 1.125rem;
+  font-style: italic;
+}
+
+blockquote {
+  border-left-color: #455a64;
+}
+
+.media-player {
+  margin: .5rem 0 1rem 0;
+}

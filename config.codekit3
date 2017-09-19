@@ -180,6 +180,27 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"\/source\/images\/promoshot-2.png": {
+		"ft": 32768,
+		"iS": 6860099,
+		"oA": 0,
+		"oAP": "\/build\/images\/promoshot-2.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/source\/images\/promoshot.jpg": {
+		"ft": 16384,
+		"iS": 1519511,
+		"oA": 0,
+		"oAP": "\/build\/images\/promoshot.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
 	"\/source\/index.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -228,6 +249,12 @@
 		"oAP": "\/build\/music.html",
 		"oF": 0
 		},
+	"\/source\/press.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/press.html",
+		"oF": 0
+		},
 	"\/source\/tour.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -250,7 +277,7 @@
 	"displayValue": "dennisdougherty",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-lotr",
-	"lastBuiltDate": 527534380
+	"lastBuiltDate": 527540211
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
