@@ -227,6 +227,12 @@
 		"oA": 2,
 		"oAP": "\/build\/music.html",
 		"oF": 0
+		},
+	"\/source\/videos.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/videos.html",
+		"oF": 0
 		}
 	},
 "hooks": [
@@ -238,7 +244,7 @@
 	"displayValue": "dennisdougherty",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-lotr",
-	"lastBuiltDate": 527193581
+	"lastBuiltDate": 527530157
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
