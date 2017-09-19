@@ -48,7 +48,7 @@ body {
   background-attachment: fixed;
 }
 
-.main {
+main {
   height: 100%;
   display: flex;
   flex-direction: column;
@@ -100,4 +100,14 @@ nav {
 pre {
   font-family: 'Lato', sans-serif;
   font-size: 1.125rem;
+  margin: 0;
+}
+
+.collapsible {
+  position: fixed;
+}
+
+.collapsible-header h1 {
+  font-size: 1.125rem;
+  margin: 0;
 }
