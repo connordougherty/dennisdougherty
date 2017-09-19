@@ -121,3 +121,7 @@ pre {
 .video-section {
   margin: 1rem 0 5% 0;
 }
+
+.video-section:last-child {
+  margin: 1rem 0 1rem 0;
+}
