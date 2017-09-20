@@ -28,6 +28,21 @@ main {
   justify-content: space-between;
 }
 
+.fa {
+  margin: 5px 1rem 5px 1rem;
+}
+
+.side-nav {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.social-sidenav {
+  display: flex;
+  justify-content: space-around;
+}
+
 /* Navigation */
 
 nav {
