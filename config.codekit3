@@ -33,6 +33,12 @@
 		"rFN": 0,
 		"uCM": 0
 		},
+	"\/source\/contact.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/contact.html",
+		"oF": 0
+		},
 	"\/source\/css\/materialize.css": {
 		"aP": 1,
 		"bl": 0,
@@ -207,6 +213,16 @@
 		"oAP": "\/build\/index.html",
 		"oF": 0
 		},
+	"\/source\/js\/formspree.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/build\/js\/formspree.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
 	"\/source\/js\/main.js": {
 		"ft": 64,
 		"ma": 0,
@@ -253,6 +269,12 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/build\/press.html",
+		"oF": 0
+		},
+	"\/source\/thanks.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/thanks.html",
 		"oF": 0
 		},
 	"\/source\/tour.html": {
