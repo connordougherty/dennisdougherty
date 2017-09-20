@@ -1,34 +1,7 @@
 /* Fonts */
 
-@font-face {
-  font-family: 'Dancing Script';
-  src: url('../fonts/dancingscript/dancingscript-bold-webfont.woff2') format('woff2'),
-       url('../fonts/dancingscript/dancingscript-bold-webfont.woff') format('woff'),
-       url('../fonts/dancingscript/dancingscript-bold-webfont.ttf') format('truetype');
-  font-weight: normal;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: 'Oswald';
-  src: url('../fonts/oswald/oswald-medium-webfont.woff2') format('woff2'),
-       url('../fonts/oswald/oswald-medium-webfont.woff') format('woff'),
-       url('../fonts/oswald/oswald-medium-webfont.ttf') format('truetype');
-  font-weight: normal;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: 'Lato';
-  src: url('../fonts/lato/lato-regular-webfont.woff2') format('woff2'),
-       url('../fonts/lato/lato-regular-webfont.woff') format('woff'),
-       url('../fonts/lato/lato-regular-webfont.ttf') format('truetype');
-  font-weight: normal;
-  font-style: normal;
-}
-
 html {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open Sans', sans-serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -78,10 +51,6 @@ nav {
 
 /* Banner */
 
-.title {
-  font-weight: bold;
-}
-
 @media only screen and (max-width: 601px) {
   .title {
     font-size: 2.92rem;
@@ -98,7 +67,7 @@ nav {
 /* Lyrics */
 
 pre {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-size: 1.125rem;
   margin: 0;
 }
