@@ -39,26 +39,6 @@
 		"oAP": "\/build\/contact.html",
 		"oF": 0
 		},
-	"\/source\/css\/materialize.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/build\/css\/materialize.css",
-		"oF": 1,
-		"oS": 3
-		},
-	"\/source\/css\/materialize.min.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/build\/css\/materialize.min.css",
-		"oF": 0,
-		"oS": 3
-		},
 	"\/source\/css\/style.css": {
 		"aP": 1,
 		"bl": 0,
@@ -68,60 +48,6 @@
 		"oAP": "\/build\/css\/style.css",
 		"oF": 0,
 		"oS": 3
-		},
-	"\/source\/fonts\/dancingscript\/dancingscript-bold-webfont.ttf": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/build\/fonts\/dancingscript\/dancingscript-bold-webfont.ttf",
-		"oF": 0
-		},
-	"\/source\/fonts\/dancingscript\/dancingscript-bold-webfont.woff": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/build\/fonts\/dancingscript\/dancingscript-bold-webfont.woff",
-		"oF": 0
-		},
-	"\/source\/fonts\/dancingscript\/dancingscript-bold-webfont.woff2": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/build\/fonts\/dancingscript\/dancingscript-bold-webfont.woff2",
-		"oF": 0
-		},
-	"\/source\/fonts\/lato\/lato-regular-webfont.ttf": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/build\/fonts\/lato\/lato-regular-webfont.ttf",
-		"oF": 0
-		},
-	"\/source\/fonts\/lato\/lato-regular-webfont.woff": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/build\/fonts\/lato\/lato-regular-webfont.woff",
-		"oF": 0
-		},
-	"\/source\/fonts\/lato\/lato-regular-webfont.woff2": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/build\/fonts\/lato\/lato-regular-webfont.woff2",
-		"oF": 0
-		},
-	"\/source\/fonts\/oswald\/oswald-medium-webfont.ttf": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/build\/fonts\/oswald\/oswald-medium-webfont.ttf",
-		"oF": 0
-		},
-	"\/source\/fonts\/oswald\/oswald-medium-webfont.woff": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/build\/fonts\/oswald\/oswald-medium-webfont.woff",
-		"oF": 0
-		},
-	"\/source\/fonts\/oswald\/oswald-medium-webfont.woff2": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/build\/fonts\/oswald\/oswald-medium-webfont.woff2",
-		"oF": 0
 		},
 	"\/source\/images\/dd-logo.png": {
 		"ft": 32768,
@@ -134,16 +60,6 @@
 		"oT": 1,
 		"q": 100
 		},
-	"\/source\/images\/dd-logo.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 0,
-		"oAP": "\/build\/images\/dd-logo.svg",
-		"oF": 0,
-		"opt": 1,
-		"plM": 3758088159,
-		"prP": 0
-		},
 	"\/source\/images\/dennis-dougherty-logo.png": {
 		"ft": 32768,
 		"iS": 15532,
@@ -154,16 +70,6 @@
 		"opt": 1,
 		"oT": 1,
 		"q": 100
-		},
-	"\/source\/images\/dennis-dougherty-logo.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 0,
-		"oAP": "\/build\/images\/dennis-dougherty-logo.svg",
-		"oF": 0,
-		"opt": 1,
-		"plM": 3758088159,
-		"prP": 0
 		},
 	"\/source\/images\/digging-dog.png": {
 		"ft": 32768,
@@ -237,6 +143,16 @@
 		"opt": 1,
 		"q": 100
 		},
+	"\/source\/images\/the-traveler.jpg": {
+		"ft": 16384,
+		"iS": 3535344,
+		"oA": 0,
+		"oAP": "\/build\/images\/the-traveler.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
 	"\/source\/index.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -263,36 +179,16 @@
 		"sC": 1,
 		"tS": 0
 		},
-	"\/source\/js\/materialize.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/build\/js\/materialize.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/source\/js\/materialize.min.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/build\/js\/materialize.min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
+	"\/source\/listen.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/listen.html",
+		"oF": 0
 		},
 	"\/source\/lyrics.html": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/build\/lyrics.html",
-		"oF": 0
-		},
-	"\/source\/music.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/build\/music.html",
 		"oF": 0
 		},
 	"\/source\/press.html": {
@@ -335,7 +231,7 @@
 	"displayValue": "dennisdougherty",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-lotr",
-	"lastBuiltDate": 527622276
+	"lastBuiltDate": 527709447
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,

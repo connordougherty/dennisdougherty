@@ -1,34 +1,7 @@
 /* Fonts */
 
-@font-face {
-  font-family: 'Dancing Script';
-  src: url('../fonts/dancingscript/dancingscript-bold-webfont.woff2') format('woff2'),
-       url('../fonts/dancingscript/dancingscript-bold-webfont.woff') format('woff'),
-       url('../fonts/dancingscript/dancingscript-bold-webfont.ttf') format('truetype');
-  font-weight: normal;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: 'Oswald';
-  src: url('../fonts/oswald/oswald-medium-webfont.woff2') format('woff2'),
-       url('../fonts/oswald/oswald-medium-webfont.woff') format('woff'),
-       url('../fonts/oswald/oswald-medium-webfont.ttf') format('truetype');
-  font-weight: normal;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: 'Lato';
-  src: url('../fonts/lato/lato-regular-webfont.woff2') format('woff2'),
-       url('../fonts/lato/lato-regular-webfont.woff') format('woff'),
-       url('../fonts/lato/lato-regular-webfont.ttf') format('truetype');
-  font-weight: normal;
-  font-style: normal;
-}
-
 html {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -44,7 +17,7 @@ html, body {
 body {
   height: 100%;
   background: #fff;
-  background: linear-gradient(135deg, #FFF59D 50%, #FFF 50%);
+  background: linear-gradient(135deg, #FFF59D 50%, #f5f5f5 50%);
   background-attachment: fixed;
 }
 
@@ -55,15 +28,31 @@ main {
   justify-content: space-between;
 }
 
+.fa {
+  margin: 5px 1rem 5px 1rem;
+}
+
+.side-nav {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.social-sidenav {
+  display: flex;
+  justify-content: space-around;
+}
+
 /* Navigation */
 
 nav {
   background: transparent;
+  margin-bottom: 1rem;
 }
 
 @media only screen and (min-width: 992px) {
   nav {
-    margin-bottom: 64px;
+    margin-bottom: 5rem;
   }
 }
 
@@ -77,10 +66,6 @@ nav {
 }
 
 /* Banner */
-
-.title {
-  font-weight: bold;
-}
 
 @media only screen and (max-width: 601px) {
   .title {
@@ -98,20 +83,22 @@ nav {
 /* Lyrics */
 
 pre {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 1.125rem;
   margin: 0;
 }
 
-.collapsible {
+/* This is why side nav dropdown is broken!*/
+
+.menu {
   position: fixed;
 }
 
-.collapsible-body {
+.menu-body {
   background-color: #fff;
 }
 
-.collapsible-header h1 {
+.menu-header h1 {
   font-size: 1.125rem;
   margin: 0;
 }
