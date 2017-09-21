@@ -1,7 +1,7 @@
 /* Fonts */
 
 html {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -17,7 +17,7 @@ html, body {
 body {
   height: 100%;
   background: #fff;
-  background: linear-gradient(135deg, #FFF59D 50%, #FFF 50%);
+  background: linear-gradient(135deg, #FFF59D 50%, #f5f5f5 50%);
   background-attachment: fixed;
 }
 
@@ -87,15 +87,17 @@ pre {
   margin: 0;
 }
 
-.collapsible {
+/* This is why side nav dropdown is broken!*/
+
+.menu {
   position: fixed;
 }
 
-.collapsible-body {
+.menu-body {
   background-color: #fff;
 }
 
-.collapsible-header h1 {
+.menu-header h1 {
   font-size: 1.125rem;
   margin: 0;
 }

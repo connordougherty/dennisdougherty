@@ -217,6 +217,16 @@
 		"opt": 1,
 		"q": 100
 		},
+	"\/source\/images\/the-traveler.jpg": {
+		"ft": 16384,
+		"iS": 3535344,
+		"oA": 0,
+		"oAP": "\/build\/images\/the-traveler.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
 	"\/source\/index.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -259,6 +269,16 @@
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/build\/js\/materialize.min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/source\/js\/scrollfire.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/build\/js\/scrollfire.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -315,7 +335,7 @@
 	"displayValue": "dennisdougherty",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-lotr",
-	"lastBuiltDate": 527628404
+	"lastBuiltDate": 527700803
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
