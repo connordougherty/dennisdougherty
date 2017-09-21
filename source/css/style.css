@@ -47,11 +47,12 @@ main {
 
 nav {
   background: transparent;
+  margin-bottom: 1rem;
 }
 
 @media only screen and (min-width: 992px) {
   nav {
-    margin-bottom: 64px;
+    margin-bottom: 5rem;
   }
 }
 

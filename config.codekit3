@@ -219,16 +219,16 @@
 		"sC": 1,
 		"tS": 0
 		},
+	"\/source\/listen.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/listen.html",
+		"oF": 0
+		},
 	"\/source\/lyrics.html": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/build\/lyrics.html",
-		"oF": 0
-		},
-	"\/source\/music.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/build\/music.html",
 		"oF": 0
 		},
 	"\/source\/press.html": {
@@ -271,7 +271,7 @@
 	"displayValue": "dennisdougherty",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-lotr",
-	"lastBuiltDate": 527703640
+	"lastBuiltDate": 527706476
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
