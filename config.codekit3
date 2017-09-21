@@ -69,60 +69,6 @@
 		"oF": 0,
 		"oS": 3
 		},
-	"\/source\/fonts\/dancingscript\/dancingscript-bold-webfont.ttf": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/build\/fonts\/dancingscript\/dancingscript-bold-webfont.ttf",
-		"oF": 0
-		},
-	"\/source\/fonts\/dancingscript\/dancingscript-bold-webfont.woff": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/build\/fonts\/dancingscript\/dancingscript-bold-webfont.woff",
-		"oF": 0
-		},
-	"\/source\/fonts\/dancingscript\/dancingscript-bold-webfont.woff2": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/build\/fonts\/dancingscript\/dancingscript-bold-webfont.woff2",
-		"oF": 0
-		},
-	"\/source\/fonts\/lato\/lato-regular-webfont.ttf": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/build\/fonts\/lato\/lato-regular-webfont.ttf",
-		"oF": 0
-		},
-	"\/source\/fonts\/lato\/lato-regular-webfont.woff": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/build\/fonts\/lato\/lato-regular-webfont.woff",
-		"oF": 0
-		},
-	"\/source\/fonts\/lato\/lato-regular-webfont.woff2": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/build\/fonts\/lato\/lato-regular-webfont.woff2",
-		"oF": 0
-		},
-	"\/source\/fonts\/oswald\/oswald-medium-webfont.ttf": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/build\/fonts\/oswald\/oswald-medium-webfont.ttf",
-		"oF": 0
-		},
-	"\/source\/fonts\/oswald\/oswald-medium-webfont.woff": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/build\/fonts\/oswald\/oswald-medium-webfont.woff",
-		"oF": 0
-		},
-	"\/source\/fonts\/oswald\/oswald-medium-webfont.woff2": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/build\/fonts\/oswald\/oswald-medium-webfont.woff2",
-		"oF": 0
-		},
 	"\/source\/images\/dd-logo.png": {
 		"ft": 32768,
 		"iS": 2547,
@@ -325,7 +271,7 @@
 	"displayValue": "dennisdougherty",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-lotr",
-	"lastBuiltDate": 527701049
+	"lastBuiltDate": 527703640
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
