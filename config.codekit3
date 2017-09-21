@@ -39,26 +39,6 @@
 		"oAP": "\/build\/contact.html",
 		"oF": 0
 		},
-	"\/source\/css\/materialize.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/build\/css\/materialize.css",
-		"oF": 1,
-		"oS": 3
-		},
-	"\/source\/css\/materialize.min.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/build\/css\/materialize.min.css",
-		"oF": 0,
-		"oS": 3
-		},
 	"\/source\/css\/style.css": {
 		"aP": 1,
 		"bl": 0,
@@ -199,26 +179,6 @@
 		"sC": 1,
 		"tS": 0
 		},
-	"\/source\/js\/materialize.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/build\/js\/materialize.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/source\/js\/materialize.min.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/build\/js\/materialize.min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
 	"\/source\/listen.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -271,7 +231,7 @@
 	"displayValue": "dennisdougherty",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-lotr",
-	"lastBuiltDate": 527706476
+	"lastBuiltDate": 527709447
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
