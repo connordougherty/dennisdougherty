@@ -273,16 +273,6 @@
 		"sC": 1,
 		"tS": 0
 		},
-	"\/source\/js\/scrollfire.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/build\/js\/scrollfire.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
 	"\/source\/lyrics.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -335,7 +325,7 @@
 	"displayValue": "dennisdougherty",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-lotr",
-	"lastBuiltDate": 527700803
+	"lastBuiltDate": 527701049
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
