@@ -60,6 +60,16 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/source\/images\/dd-logo.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "\/build\/images\/dd-logo.svg",
+		"oF": 0,
+		"opt": 1,
+		"plM": 3758088159,
+		"prP": 0
+		},
 	"\/source\/images\/dennis-dougherty-logo.png": {
 		"ft": 32768,
 		"iS": 15532,
@@ -70,6 +80,16 @@
 		"opt": 1,
 		"oT": 1,
 		"q": 100
+		},
+	"\/source\/images\/dennis-dougherty-logo.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "\/build\/images\/dennis-dougherty-logo.svg",
+		"oF": 0,
+		"opt": 1,
+		"plM": 3758088159,
+		"prP": 0
 		},
 	"\/source\/images\/digging-dog.png": {
 		"ft": 32768,
@@ -231,7 +251,7 @@
 	"displayValue": "dennisdougherty",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-lotr",
-	"lastBuiltDate": 527740091
+	"lastBuiltDate": 527747980
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
